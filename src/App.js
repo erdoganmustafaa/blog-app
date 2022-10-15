@@ -11,6 +11,7 @@ function App() {
     <Router>
     <BlogProvider>
     <div className="App">
+    <Home/>
     <Navbar/>
     <div className='content'>
     <Routes>
